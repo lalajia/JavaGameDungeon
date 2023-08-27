@@ -1,0 +1,212 @@
+//win the game
+//escape 50% chance
+//pick arrow
+//Meet monster from 1 step and 2 step
+//shoot arrow from 1 step and 2 step
+
+/Library/Java/JavaVirtualMachines/jdk-11.0.16.jdk/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=50696:/Applications/IntelliJ IDEA.app/Contents/bin -Dfile.encoding=UTF-8 -classpath /Users/selenazheng/Desktop/cs5010/textbased/out/production/dungeon driver.Driver
+Start Game
+width(>6): 6
+height(>6): 6
+Please input Wrapping/Nonwrapping: Nonwrapping
+your name:s
+treasure percent: 20
+interconnectivity: 0
+number of monster(>1): 7
+StartLocation is at(4, 1)
+EndLocation is at(5, 4)
+[ARROW, ARROW, ARROW, ARROW, ARROW, ARROW, ARROW, ARROW, ARROW, ARROW, ARROW, ARROW, ARROW, ARROW, ARROW, ARROW, ARROW, ARROW, ARROW, ARROW, ARROW]
+[M_10(2,3), M_10(1,1), M_10(1,4), M_10(5,4), M_10(1,2), M_10(1,2), M_10(2,2)]
+s(4,1) DIAMOND : 0, SAPPHIRE : 0, RUBY : 0 ARROWS: 3
+you are in cave
+you can move: SOUTH
+Where to? S
+s(4,2) DIAMOND : 0, SAPPHIRE : 0, RUBY : 0 ARROWS: 3
+you can move: WEST NORTH
+You smell something terrible 2 steps from you
+There are 1 Otyugh.
+[M_10(2,2)]
+Wanna shot?(y/n) y
+shoot to? W
+distance(1-5)? 2
+attack: M_5(2,2)
+continue shoot?(y/n):y
+Wanna shot?(y/n) y
+shoot to? W
+distance(1-5)? 2
+attack: M_0(2,2)
+continue shoot?(y/n):n
+s(4,2) DIAMOND : 0, SAPPHIRE : 0, RUBY : 0 ARROWS: 1
+you are in tunnel
+you can move: WEST NORTH
+Where to? W
+s(3,2) DIAMOND : 0, SAPPHIRE : 0, RUBY : 0 ARROWS: 1
+You find 2 arrow here
+Pick arrow?(y/n):y
+pull Treasure(y/n): y
+you can move: WEST EAST SOUTH
+You smell something terrible 2 steps from you
+There are 2 Otyugh.
+[M_10(1,2), M_10(1,2)]
+Wanna shot?(y/n) n
+shoot failed
+continue shoot?(y/n):n
+s(3,2) DIAMOND : 1, SAPPHIRE : 0, RUBY : 0 ARROWS: 3
+you are in cave
+you can move: WEST EAST SOUTH
+Where to? W
+s(2,2) DIAMOND : 1, SAPPHIRE : 0, RUBY : 0 ARROWS: 3
+You find 1 arrow here
+Pick arrow?(y/n):y
+you can move: WEST NORTH EAST
+You smell something terrible 1 steps from you
+There are 2 Otyugh.
+[M_10(1,2), M_10(1,2)]
+Wanna shot?(y/n) y
+shoot to? W
+distance(1-5)? 1
+attack: M_5(1,2)
+continue shoot?(y/n):y
+Wanna shot?(y/n) y
+shoot to? W
+distance(1-5)? 1
+attack: M_0(1,2)
+continue shoot?(y/n):y
+Wanna shot?(y/n) y
+shoot to? W
+distance(1-5)? 1
+attack: M_5(1,2)
+continue shoot?(y/n):y
+Wanna shot?(y/n) y
+shoot to? W
+distance(1-5)? 1
+attack: M_0(1,2)
+continue shoot?(y/n):n
+s(2,2) DIAMOND : 1, SAPPHIRE : 0, RUBY : 0 ARROWS: 0
+you are in cave
+you can move: WEST NORTH EAST
+Where to? W
+s(1,2) DIAMOND : 1, SAPPHIRE : 0, RUBY : 0 ARROWS: 0
+You find 1 arrow here
+Pick arrow?(y/n):y
+you can move: NORTH EAST SOUTH
+You smell something terrible 1 steps from you
+There are 1 Otyugh.
+[M_10(1,1)]
+Wanna shot?(y/n) n
+shoot failed
+continue shoot?(y/n):n
+s(1,2) DIAMOND : 1, SAPPHIRE : 0, RUBY : 0 ARROWS: 1
+you are in cave
+you can move: NORTH EAST SOUTH
+Where to? S
+s(1,3) DIAMOND : 1, SAPPHIRE : 0, RUBY : 0 ARROWS: 1
+You find 1 arrow here
+Pick arrow?(y/n):y
+you can move: WEST NORTH SOUTH
+You smell something terrible 1 steps from you
+There are 1 Otyugh.
+[M_10(1,4)]
+Wanna shot?(y/n) y
+shoot to? S
+distance(1-5)? 1
+attack: M_5(1,4)
+continue shoot?(y/n):n
+s(1,3) DIAMOND : 1, SAPPHIRE : 0, RUBY : 0 ARROWS: 1
+you are in cave
+you can move: WEST NORTH SOUTH
+Where to? S
+s(1,4) DIAMOND : 1, SAPPHIRE : 0, RUBY : 0 ARROWS: 1
+You find 3 arrow here
+Pick arrow?(y/n):y
+you can move: WEST NORTH EAST SOUTH
+You smell something terrible 2 steps from you
+There are 1 Otyugh.
+[M_10(2,3)]
+Wanna shot?(y/n) n
+shoot failed
+continue shoot?(y/n):n
+s(1,4) DIAMOND : 1, SAPPHIRE : 0, RUBY : 0 ARROWS: 4
+you are in cave
+you can move: WEST NORTH EAST SOUTH
+Congrats! You run away!
+Where to? E
+s(2,4) DIAMOND : 1, SAPPHIRE : 0, RUBY : 0 ARROWS: 4
+You find 1 arrow here
+Pick arrow?(y/n):y
+pull Treasure(y/n): y
+you can move: WEST NORTH EAST SOUTH
+You smell something terrible 1 steps from you
+There are 2 Otyugh.
+[M_5(1,4), M_10(2,3)]
+Wanna shot?(y/n) n
+shoot failed
+continue shoot?(y/n):n
+s(2,4) DIAMOND : 1, SAPPHIRE : 0, RUBY : 1 ARROWS: 5
+you are in cave
+you can move: WEST NORTH EAST SOUTH
+Where to? E
+s(3,4) DIAMOND : 1, SAPPHIRE : 0, RUBY : 1 ARROWS: 5
+you can move: WEST SOUTH
+You smell something terrible 2 steps from you
+There are 2 Otyugh.
+[M_5(1,4), M_10(2,3)]
+Wanna shot?(y/n) n
+shoot failed
+continue shoot?(y/n):n
+s(3,4) DIAMOND : 1, SAPPHIRE : 0, RUBY : 1 ARROWS: 5
+you are in tunnel
+you can move: WEST SOUTH
+Where to? S
+s(3,5) DIAMOND : 1, SAPPHIRE : 0, RUBY : 1 ARROWS: 5
+you can move: NORTH EAST
+s(3,5) DIAMOND : 1, SAPPHIRE : 0, RUBY : 1 ARROWS: 5
+you are in tunnel
+you can move: NORTH EAST
+Where to? E
+s(4,5) DIAMOND : 1, SAPPHIRE : 0, RUBY : 1 ARROWS: 5
+You find 1 arrow here
+Pick arrow?(y/n):y
+you can move: WEST NORTH EAST
+You smell something terrible 2 steps from you
+There are 1 Otyugh.
+[M_10(5,4)]
+Wanna shot?(y/n) y
+shoot to? E
+distance(1-5)? 2
+attack: M_5(5,4)
+continue shoot?(y/n):y
+Wanna shot?(y/n) y
+shoot to? E
+distance(1-5)? 2
+attack: M_0(5,4)
+continue shoot?(y/n):n
+s(4,5) DIAMOND : 1, SAPPHIRE : 0, RUBY : 1 ARROWS: 4
+you are in cave
+you can move: WEST NORTH EAST
+Where to? N
+s(4,4) DIAMOND : 1, SAPPHIRE : 0, RUBY : 1 ARROWS: 4
+you can move: SOUTH
+s(4,4) DIAMOND : 1, SAPPHIRE : 0, RUBY : 1 ARROWS: 4
+you are in cave
+you can move: SOUTH
+Where to? S
+s(4,5) DIAMOND : 1, SAPPHIRE : 0, RUBY : 1 ARROWS: 4
+you can move: WEST NORTH EAST
+s(4,5) DIAMOND : 1, SAPPHIRE : 0, RUBY : 1 ARROWS: 4
+you are in cave
+you can move: WEST NORTH EAST
+Where to? E
+s(5,5) DIAMOND : 1, SAPPHIRE : 0, RUBY : 1 ARROWS: 4
+you can move: WEST NORTH
+s(5,5) DIAMOND : 1, SAPPHIRE : 0, RUBY : 1 ARROWS: 4
+you are in tunnel
+you can move: WEST NORTH
+Where to? N
+s(5,4) DIAMOND : 1, SAPPHIRE : 0, RUBY : 1 ARROWS: 4
+pull Treasure(y/n): y
+you can move: SOUTH
+You win!
+Game Finish!!
+
+Process finished with exit code 0
