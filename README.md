@@ -7,6 +7,7 @@ Welcome to the Java Dungeon Game! This text-based adventure takes you on a journ
 - [Gameplay](#gameplay)
 - [Project Highlights](#project-highlights)
 - [Getting Started](#getting-started)
+- Demo Video [Youtube Link](https://www.youtube.com/watch?v=SpCnUI41TQ4&feature=youtu.be&themeRefresh=1)
 
 ## Introduction
 In the Java Dungeon Game, you'll step into a world of adventure where you control a character's movement through a unidirectional dungeon. Your task is to guide the player from the initial point to the endpoint, overcoming obstacles and challenges along the way.
